@@ -1,0 +1,217 @@
+body
+{
+    margin: 0pt;
+    background-color: #A2A2A2;
+}
+td
+{
+    font-size: 10px;
+    color: #000000;
+    font-family: verdana, tahoma, Helvetica, sans-serif;
+	line-height:175%;
+}
+.PageTitle
+{
+	text-align:right;
+	background-color:#A13846;
+	font-size:13px;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+.Highlight
+{
+	background-color:#E4DAC4;
+	border:1px solid #000000;
+}
+.NavTitle
+{
+	text-align:center;
+	background-color:#A13846;
+	font-size:13px;
+	font-weight:bold;
+	color:#FFFFFF;
+}
+.Home
+{
+	text-align:justify;
+}
+.Pink
+{
+	color: #A13846;
+}
+.PinkB
+{
+	color: #A13846;
+	font-weight:bold;
+}
+.White12pxB
+{
+	font-size: 12px;
+	color: #FFFFFF;
+	font-weight:bold;
+}
+.PinkB12px
+{
+	font-size: 12px;
+	color: #A13846;
+	font-weight:bold;
+}
+.Red_SM {
+    font-size: 1em;
+    color: #a13b3b;
+}
+.Description
+{
+	line-height:100%;
+}
+a:link,a:visited,a:active {
+	color: #000000;
+	font-weight:bold;
+	text-decoration: underline;
+}
+a:hover {
+	color: #666666;
+	font-weight:bold;
+	text-decoration: none;
+}
+a:link.Delete,a:visited.Delete,a:active.Delete {
+	color: #a13b3b;
+	font-weight:bold;
+	text-decoration: underline;
+}
+a:hover.Delete {
+	color: #666666;
+	font-weight:bold;
+	text-decoration: none;
+}
+a:link.Record,a:visited.Record,a:active.Record {
+	color: #000000;
+	font-weight:normal;
+	font-size:12px;
+	text-decoration: underline;
+}
+a:hover.Record {
+	color: #666666;
+	font-weight:normal;
+	font-size:12px;
+	text-decoration: none;
+}
+
+a:link.Record_Inactive,a:visited.Record_Inactive,a:active.Record_Inactive {
+	color: #999999;
+	font-weight:normal;
+	font-size:12px;
+	text-decoration: underline;
+}
+a:hover.Record_Inactive {
+	color: #999999;
+	font-weight:normal;
+	font-size:12px;
+	text-decoration: none;
+}
+
+a:link.Nav,a:visited.Nav,a:active.Nav {
+	color: #000000;
+	font-weight:normal;
+	text-decoration: underline;
+}
+a:hover.Nav {
+	color: #666666;
+	font-weight:normal;
+	text-decoration: none;
+}
+.Submit
+{
+	border:1px solid #CCCCCC;
+	width: 100px;
+	height: 20px;
+	font-size: 9pt;
+}
+.Text_300
+{
+	border:1px solid #CCCCCC;
+	width: 300px;
+	height: 20px;
+	font-size: 10pt;
+}
+.Text_250
+{
+	border:1px solid #CCCCCC;
+	width: 250px;
+	height: 20px;
+	font-size: 10pt;
+}
+.Text_200
+{
+	border:1px solid #CCCCCC;
+	width: 200px;
+	height: 20px;
+	font-size: 10pt;
+}
+.Text_150
+{
+	border:1px solid #CCCCCC;
+	width: 150px;
+	height: 20px;
+	font-size: 10pt;
+}
+.Text_100
+{
+	border:1px solid #CCCCCC;
+	width: 100px;
+	height: 20px;
+	font-size: 10pt;
+}
+.Text_50
+{
+	border:1px solid #CCCCCC;
+	width: 50px;
+	height: 20px;
+	font-size: 10pt;
+}
+.Text_20
+{
+	border:1px solid #CCCCCC;
+	width: 20px;
+	height: 20px;
+	font-size: 10pt;
+}
+.TextArea_300
+{
+	border:1px solid #CCCCCC;
+	width: 300px;
+	height: 200px;
+	font-size: 10pt;
+}
+.Textarea_350
+{
+	border:1px solid #CCCCCC;
+	font-size: 14px;
+	width: 350px;
+	height: 150px;
+}
+.Textarea_400
+{
+	border:1px solid #CCCCCC;
+	font-size: 14px;
+	width: 400px;
+	height: 150px;
+}
+.Dropdown_SM
+{
+	width: 150px;
+	height: 20px;
+	font-size: 10pt;
+}
+.Dropdown_LG
+{
+	width: 250px;
+	height: 20px;
+	font-size: 10pt;
+}
+.Dropdown_CardType
+{
+	width: 150px;
+	height: 20px;
+	font-size: 10pt;
+}
